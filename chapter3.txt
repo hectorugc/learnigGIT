@@ -1,2 +1,6 @@
 Final chapter 3...
 afkandodpqdqdqpmdqmdqmdḿḱdk
+<<<<<<< HEAD
+=======
+This is when he realized he had messed up.
+>>>>>>> multiverse-plot
